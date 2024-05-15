@@ -18,7 +18,7 @@
 "Coding is just like playing the piano, u gotta do it to master it" - my professor
 
 
-- 📫 How to reach me ...Try my gmail: cartmenlivesinsouthpark@gmail.com
+- 📫 How to reach me ...Try my gmail: alica.a.103199@gmail.com
 
 <!---
 Alice-1031/Alice-1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
