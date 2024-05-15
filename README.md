@@ -18,7 +18,7 @@
 "Coding is just like playing the piano, u gotta do it to master it" - my professor
 
 
-- 📫 How to reach me ...Try my gmail: alice.a.103199@gmail.com
+- 📫 How to reach me ...Try my linkedin: https://www.linkedin.com/in/shreya-jaiswal-b8b19b205/
 
 <!---
 Alice-1031/Alice-1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
